@@ -37,6 +37,6 @@ All of this makes me a social and very open person, always eager 👀 to learn n
 ### 📈 GitHub Stats
 
 <div align="center">
- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Richard-DEPIERRE&show_icons=true&theme=algolia&langs_count=8" alt="Richard Dépierre's github stats" />
- <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-DEPIERRE&show_icons=true&layout=compact&theme=algolia" alt="Richard Dépierre's github stats" />
+ <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Richard-DEPIERRE&show_icons=true&theme=highcontrast&langs_count=8" alt="Richard Dépierre's github stats" />
+ <img width="23.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-DEPIERRE&show_icons=true&layout=default&theme=algolia" alt="Richard Dépierre's github stats" />
 </div>
