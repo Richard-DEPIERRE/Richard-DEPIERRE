@@ -3,11 +3,17 @@
 
 <p aling="left"><samp>
 Before entering the developer world, I was studying medicine and aiming to be a doctor 👨‍⚕️ . While studying a friend of mine shared with me his passion which was developing web applications and told me to try it out. I then started doing some small python 🐍 programs to create little games and slowly but surely I started loving it and enjoying every bit of it. After realizing that my real passion was developing, I set out on a journey to find a good school/university to gain the necessary knowledge to be able to make a name for myself in this industry 🧑‍💻.
+</samp></p>
 
+<p aling="left"><samp>
 I then found Epitech, a school 🏫 preparing its students to be able to learn by themselves in 5 years. I fell straight away in love with the school because of what it could give me and the teachings they give. Epitech's education reminds me a lot of what I lived while my 4 years in New Zealand 🇳🇿 which is quite different from the pedagogy we could usually see in France 🇫🇷.
+</samp></p>
 
+<p aling="left"><samp>
 Having both ways of thinking helped me forge a very peculiar thinking mind 🧠 that I currently use every day to create and enhance my current and future projects.
+</samp></p>
 
+<p aling="left"><samp>
 All of this makes me a social and very open person, always eager 👀 to learn new things and to improve on things I already know 💪.
 </samp></p>
 
