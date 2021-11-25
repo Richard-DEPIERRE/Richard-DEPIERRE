@@ -3,6 +3,7 @@
 
 ### Skills 🧑🏾‍💻
 
+<img align="left" alt="Flutter" width="25px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
 <img align="left" alt="JavaScript" width="23px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
 <img align="left" alt="Typescript" width="23px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
 <img align="left" alt="C++" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/612px-ISO_C%2B%2B_Logo.svg.png" />
@@ -20,7 +21,6 @@
 <img align="left" alt="Android" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/android.svg" />
 <img align="left" alt="Apple" width="23px" src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" />
 <img align="left" alt="docker" width="25px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
-<img align="left" alt="Flutter" width="25px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
 <br>
 <br>
 
