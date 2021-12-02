@@ -29,6 +29,6 @@
 <div align="center">
  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Richard-DEPIERRE&show_icons=true&theme=highcontrast&langs_count=8" alt="Richard Dépierre's github stats" />
  <img width="23.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-DEPIERRE&show_icons=true&layout=default&theme=algolia" alt="Richard Dépierre's github stats" />
- <!--<img width="23.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Richard-DEPIERRE&layout=compact" alt="Richard Dépierre's github stats" />-->
-
 </div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
